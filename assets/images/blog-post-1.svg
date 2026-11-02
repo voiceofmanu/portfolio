@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" fill="none">
+    <rect width="600" height="360" rx="16" fill="#0d0f14"/>
+    <rect x="1" y="1" width="598" height="358" rx="15" stroke="url(#borderGrad)" stroke-width="2"/>
+    <!-- Abstract glowing grid and charts -->
+    <path d="M40 300L180 240L300 270L420 160L540 100" stroke="url(#chartGrad)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M40 300L180 240L300 270L420 160L540 100L540 320L40 320Z" fill="url(#areaGrad)"/>
+    <!-- Data points -->
+    <circle cx="180" cy="240" r="6" fill="#ff7a00"/>
+    <circle cx="300" cy="270" r="6" fill="#ff7a00"/>
+    <circle cx="420" cy="160" r="6" fill="#ff7a00"/>
+    <circle cx="540" cy="100" r="9" fill="#ff5e14" stroke="#ffffff" stroke-width="3"/>
+    <!-- Floating Badge -->
+    <rect x="40" y="40" width="160" height="36" rx="18" fill="#181b22" stroke="#ff5e14" stroke-width="1.2"/>
+    <circle cx="58" cy="58" r="5" fill="#ff5e14"/>
+    <text x="74" y="63" font-family="'Poppins', sans-serif" font-weight="600" font-size="12" fill="#ffffff" letter-spacing="0.5">SEO ALGORITHMS</text>
+    <!-- Metric Pill -->
+    <rect x="380" y="40" width="180" height="36" rx="18" fill="#ff5e14" fill-opacity="0.18" stroke="#ff7a00" stroke-width="1.2"/>
+    <text x="405" y="63" font-family="'Poppins', sans-serif" font-weight="700" font-size="12" fill="#ff7a00">+280% ORGANIC</text>
+    <!-- Headline overlay inside graphic -->
+    <text x="40" y="130" font-family="'Poppins', sans-serif" font-weight="800" font-size="24" fill="#ffffff">Google AI Search Overhaul</text>
+    <text x="40" y="160" font-family="'Poppins', sans-serif" font-weight="400" font-size="14" fill="#a0aec0">Conversational &amp; Zero-Click SERP Playbook</text>
+    <defs>
+        <linearGradient id="chartGrad" x1="40" y1="300" x2="540" y2="100" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ff7a00"/>
+            <stop offset="1" stop-color="#ff3d00"/>
+        </linearGradient>
+        <linearGradient id="areaGrad" x1="0" y1="100" x2="0" y2="320" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ff5e14" stop-opacity="0.25"/>
+            <stop offset="1" stop-color="#ff5e14" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="borderGrad" x1="0" y1="0" x2="600" y2="360" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ff7a00" stop-opacity="0.4"/>
+            <stop offset="1" stop-color="#ffffff" stop-opacity="0.05"/>
+        </linearGradient>
+    </defs>
+</svg>

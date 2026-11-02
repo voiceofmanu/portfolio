@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+    <rect width="240" height="60" rx="10" fill="#14171f" stroke="rgba(255,94,20,0.25)" stroke-width="1.2"/>
+    <g transform="translate(14, 12)">
+        <rect width="36" height="36" rx="8" fill="url(#bvGrad)"/>
+        <path d="M10 24C10 24 12 18 18 16C24 14 26 18 26 18L28 22H8L10 24Z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="13" cy="24" r="2.5" fill="#ffffff"/>
+        <circle cx="23" cy="24" r="2.5" fill="#ffffff"/>
+    </g>
+    <text x="62" y="27" font-family="'Poppins', sans-serif" font-weight="700" font-size="13.5" fill="#ffffff">BEAUTY VILLAGE</text>
+    <text x="62" y="43" font-family="'Poppins', sans-serif" font-weight="500" font-size="9.5" fill="#ff7a00" letter-spacing="1">AUTO ACCESSORIES &bull; UAE</text>
+    <defs>
+        <linearGradient id="bvGrad" x1="0" y1="0" x2="36" y2="36" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ff9436"/>
+            <stop offset="1" stop-color="#ff3d00"/>
+        </linearGradient>
+    </defs>
+</svg>
