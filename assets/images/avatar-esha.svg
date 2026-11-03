@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="none">
+    <circle cx="50" cy="50" r="48" fill="#181b22" stroke="#ff7a00" stroke-width="2.5"/>
+    <circle cx="50" cy="38" r="18" fill="url(#eshaSkin)"/>
+    <path d="M22 84C22 68 34 62 50 62C66 62 78 68 78 84" fill="#3f2b48"/>
+    <path d="M30 32C30 20 40 18 50 18C60 18 70 20 70 32C70 42 66 48 66 48L62 38L38 38L34 48C34 48 30 42 30 32Z" fill="#1a1423"/>
+    <circle cx="50" cy="50" r="48" stroke="url(#ringGradE)" stroke-width="2"/>
+    <text x="50" y="93" font-family="'Poppins', sans-serif" font-weight="700" font-size="10" fill="#ff7a00" text-anchor="middle">EM</text>
+    <defs>
+        <linearGradient id="eshaSkin" x1="32" y1="20" x2="68" y2="56" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fed7aa"/>
+            <stop offset="1" stop-color="#f97316"/>
+        </linearGradient>
+        <linearGradient id="ringGradE" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ff9436"/>
+            <stop offset="1" stop-color="#ff3d00"/>
+        </linearGradient>
+    </defs>
+</svg>

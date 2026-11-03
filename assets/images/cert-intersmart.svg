@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" fill="none">
+    <rect width="320" height="200" rx="14" fill="#13161d" stroke="rgba(255,94,20,0.3)" stroke-width="1.5"/>
+    <g transform="translate(24, 24)">
+        <rect width="48" height="48" rx="10" fill="url(#certOrange)" stroke="#ff7a00" stroke-width="1"/>
+        <path d="M24 14L34 20V28L24 34L14 28V20L24 14Z" stroke="#ffffff" stroke-width="2" fill="none"/>
+        <circle cx="24" cy="24" r="4" fill="#ffffff"/>
+    </g>
+    <rect x="220" y="24" width="76" height="24" rx="12" fill="rgba(255,94,20,0.15)" stroke="#ff7a00" stroke-width="1"/>
+    <text x="238" y="40" font-family="'Poppins', sans-serif" font-weight="700" font-size="10" fill="#ff7a00">VERIFIED</text>
+    <text x="24" y="105" font-family="'Poppins', sans-serif" font-weight="700" font-size="15" fill="#ffffff">Digital Marketing Mastery</text>
+    <text x="24" y="128" font-family="'Poppins', sans-serif" font-weight="500" font-size="12" fill="#ff7a00">Intersmart Edutech &bull; 2026</text>
+    <text x="24" y="160" font-family="'Poppins', sans-serif" font-weight="400" font-size="11" fill="#9ca3af">Full-Funnel Paid Ads, SEO Architecture &amp; SMM</text>
+    <defs>
+        <linearGradient id="certOrange" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ff7a00"/>
+            <stop offset="1" stop-color="#ff3d00"/>
+        </linearGradient>
+    </defs>
+</svg>
